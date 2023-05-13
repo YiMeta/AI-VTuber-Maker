@@ -1,5 +1,7 @@
 # AI-VTuber-Maker
 Your AI-powered 3D Vtuber avatar: Engaging, interactive communication, singing, dancing—a virtual partner or waifu experience.  
+ 
+ 
 # Introduction
 Our project aims to revolutionize the world of virtual communication and entertainment by combining cutting-edge technologies. With the integration of Vmotionize, ChatGPT, and TTS, we offer an immersive experience with AI-driven 3D Vtuber avatars that can interact, communicate, sing, and dance like never before.　　
 # Key Technologies
