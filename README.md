@@ -3,7 +3,9 @@ Your AI-powered 3D Vtuber avatar: Engaging, interactive communication, singing, 
 　
  
 # Introduction
-Our project aims to revolutionize the world of virtual communication and entertainment by combining cutting-edge technologies. With the integration of Vmotionize, ChatGPT, and TTS, we offer an immersive experience with AI-driven 3D Vtuber avatars that can interact, communicate, sing, and dance like never before.　　
+Our project aims to revolutionize the world of virtual communication and entertainment by combining cutting-edge technologies. With the integration of Vmotionize, ChatGPT, and TTS, we offer an immersive experience with AI-driven 3D Vtuber avatars that can interact, communicate, sing, and dance like never before.
+　
+　
 # Key Technologies
 ## 1. [Vmotionize](https://vmotionize.com/): Fast and Dynamic AI Animation
 [Vmotionize](https://vmotionize.com/) is an AI animation platform that empowers us to generate dynamic animations quickly using text, music, and videos. With an extensive library of text and music animations, we can seamlessly synchronize the 3D avatars' movements with semantic expressions, resulting in captivating performances.
